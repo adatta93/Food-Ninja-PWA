@@ -1,4 +1,4 @@
-const STATIC_CACHE_NAME = "site-static-v6";
+const STATIC_CACHE_NAME = "site-static-v5";
 const DYNAMIC_CACHE_NAME = "site-dynamic-v5";
 const ASSETS = [
   "/",
